@@ -1,5 +1,5 @@
 # Notary
-Jupyter Notebook <b>Notary</b> contains three scripts that perform the following transformations:
+Jupyter Notebook <b>Notary</b> contains three scripts that perform the following operations:
 
 - JPG to PNG with `Pillow`,
 - PNG text to TXT with `pytesseract`,
